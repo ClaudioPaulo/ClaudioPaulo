@@ -1,8 +1,8 @@
-# Claudio Paulo
+# Cláudio Paulo
 
 **Backend software engineer** based in Lisbon, Portugal. I design and run APIs and microservices, and I'm the founder of K2ACPTech, a freelance software consultancy.
 
-I have 9+ years of experience in telecom, banking and SaaS, from SMS platforms processing 1M+ daily transactions to banking applications used by 4M+ customers. I'm open to backend, full-stack and cloud roles, and to consulting projects.
+I have 8+ years of experience in telecom, banking and SaaS, from SMS platforms processing 1M+ daily transactions to banking applications used by 4M+ customers. I'm open to backend, full-stack and cloud roles, and to consulting projects.
 
 ## Featured projects
 
